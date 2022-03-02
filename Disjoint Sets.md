@@ -4,7 +4,7 @@ lecture notes link: http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Di
 ---
 # general:
 
-material will be everything upto and including disjoint sets
+exam material will be everything upto and including disjoint sets
 
 ---
 # Disjoint sets continued
