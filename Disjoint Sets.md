@@ -1,4 +1,4 @@
-2/24/2022
+
 lecture notes link: http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Disjoint/
 
 ---

@@ -30,7 +30,8 @@ To do a div mod enumeration you need to generate all possible combinations of th
 2. then divide that number by n
 
 code example:
-```/* Calculate n^l.  This is inefficient, but since l is small, it's ok. */
+```
+/* Calculate n^l.  This is inefficient, but since l is small, it's ok. */
 
   top = 1;
   for (i = 0; i < l; i++) top *= n;
