@@ -126,7 +126,7 @@ clear bit x of number n
 
 AND NOT
 
-n &= (~( << x));
+n &= (~(1 << x));
 
 x - (1 << y)
 
