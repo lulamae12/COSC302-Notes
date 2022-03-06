@@ -65,7 +65,7 @@ the general formula is:
 
 or
 
-- v[i] = (j/(ni))%n.
+- v[i] = (j/(n^i))%n.
 
 # Power Set Enumeration
 

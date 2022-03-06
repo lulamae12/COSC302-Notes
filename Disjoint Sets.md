@@ -1,15 +1,6 @@
 
+# Disjoint Sets
 lecture notes link: http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Disjoint/
-
----
-# general:
-
-exam material will be everything upto and including disjoint sets
-
----
-# Disjoint sets continued
-
-
 
 When a node has a NULL link, we call it the "root" of a set. If you call Find() on a node with a NULL link, it will return the node's item number, and that is the set id of the node. Therefore, when you first start, every node is the root of its own set, and when you call Find(i), it will return i.
 
