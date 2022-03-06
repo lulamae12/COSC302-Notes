@@ -18,11 +18,11 @@ lecture notes link: http://web.eecs.utk.edu/~jplank/plank/classes/cs202/Notes/Bi
 ## O(1) - Constant Time
 | Operation | Running time in O(n) | Time |
 | ----------- | ----------- | ----------- |
-|Appendiung to a list, vector or deqeue|O(1)          |  "Constant Time" |
+|Appending to a list, vector or deqeue|O(1)          |  "Constant Time" |
 |Pushing to a list or deqeue|O(1)          |  "Constant Time" |
-|Acceseeing an element of a list|O(1)          |  "Constant Time" |
-|Acceseeing an element of a vector|O(1)          |  "Constant Time" |
-|Acceseeing an element of a deqeue|O(1)          |  "Constant Time" |
+|Accessing an element of a list|O(1)          |  "Constant Time" |
+|Accessing an element of a vector|O(1)          |  "Constant Time" |
+|Accessing an element of a deqeue|O(1)          |  "Constant Time" |
 ## O(n) - Linear Time:
 | Operation | Running time in O(n) | Time |
 | ----------- | ----------- | ----------- |
