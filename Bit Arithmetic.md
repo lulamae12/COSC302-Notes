@@ -124,8 +124,11 @@ Example:
 
 clear bit x of number n
 
-n &= (~(1ULL << x));
+AND NOT
 
+n &= (~( << x));
+
+x - (1 << y)
 
 ```
 
