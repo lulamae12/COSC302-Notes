@@ -73,6 +73,7 @@ Power set Enumeration is used when you want to enumerate all subsets of an item.
 
 The Power Set of a set is the set of all subsets of the set.
 
+**power set enumeration is better to use over div/mod when dealing with 0's and 1's**
 
 Power Set size = 2 ^ l , where 'l' is the items in the set.
 
@@ -120,6 +121,19 @@ Example:
 Suppose I want to generate all three-person teams from a collection of n people. 
 
 This is an "n choose k" enumeration, where k is equal to 3 and n is the size of the people.
+
+
+```
+
+    (n!)
+ -----------
+ ((3!)((n-3)!)
+```
+
+
+
+
+
 
 recursive code to solve this Example:
 ```
@@ -230,3 +244,13 @@ void People::GenPermutations(int index)
 }
 ```
 
+# Topcoder Solutions
+
+- Div/mod
+  - Biology
+  - Balls in boxes
+- Power Set
+  - Powers of three
+  - X marks the spot (treasure one)
+- Permutations
+  - Three teleports
