@@ -203,23 +203,23 @@ Heap sort, Merge sort and Quicksort are three O(n log(n)) algorithms for sorting
 
 # Heap Sort
 Running time: 
-
+http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Sorting/
 
 # Merge Sort
 Running time: 
-
+http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Sorting/
 
 # Quicksort Implementation #1
 Running time: 
 
-
+http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Sorting/
 # Quicksort Implementation #2
 Running time: 
-
+http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Sorting/
 
 # Quicksort Implementation #3
 Running time: 
 
-
+http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Sorting/
 # Bucket Sort - Linear Time Sorting
 Running time: 
