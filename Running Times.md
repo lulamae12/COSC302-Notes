@@ -58,6 +58,7 @@ E - Edges
 |Dijkstra's Algorithim | O(E log(V))|  "E log V"|
 |Prim's Algorithim | O(E log(V))|  "E log V"|
 |Kruskal's Algorithim | O(E log(V))|  "E log V"|
+|Minimum spanning Trees | O(E log(V))|  "E log V"|
 
 ## O(V log (V)) - V Log V:
 | Operation | Running time in O(n) | Time |
