@@ -18,6 +18,7 @@ Running time (Identical to Dijkstras Algorithim): O( E log(V))
 Prim's Algorithim is a modified version of Dijkstras Algorithim. You basically just work through the graph from the starting node to the end by going through the least weighted paths
 
 Example:
+
 ![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/G5-2.jpg)
 ![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/G5-8.jpg)
 ![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/G5-9.jpg)
