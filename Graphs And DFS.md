@@ -14,7 +14,7 @@ graphs have nodes
 edges are the "lines of the arrows and such"
 
 
-## incidince and Adjaceny
+## Incidince and Adjaceny
 
 do yhis later
 
@@ -93,8 +93,8 @@ one of the most basic graph algorithms
 - Optionally Do some final activity on n.
 - Return.
 
-When you call DFS on a node n, the DFS will visit every node connected to n. For that reason, DFS is good for activities that involve connectivity. We'll see one of those in the next section.
+When you call DFS on a node n, the DFS will visit every node connected to n. For that reason, DFS is good for activities that involve connectivity.
+
+DFS  Basically is a search algor where you keep track of the nodes that have been visited and that have not
 
 
-## Depth First Search To Count Connected Components
----
