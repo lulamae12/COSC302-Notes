@@ -10,7 +10,7 @@ Example: the graph below on the left is a spanning tree and the graph on the rig
 ![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/Ex1.jpg)
 
 
-There are two main algorithims that can be used to find the minimum spanning tree: **Prim's Algorithim** and **Kruskalls Algorithim**
+There are two main algorithims that can be used to find the minimum spanning tree: **Prim's Algorithim** and **Kruskal's Algorithim**
 
 # Prim's Algorithim
 Running time (Identical to Dijkstras Algorithim): O( E log(V))
@@ -22,3 +22,9 @@ Example:
 1. ![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/G5-2.jpg)
 2. ![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/G5-8.jpg)
 3. ![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/G5-9.jpg)
+
+
+# Kruskal's Algorithim
+Running time: O( E log(V))
+
+Works like Prim'ss Algorithim but you just sort the nodes fom smallest to largest. if it spans two components and wont cause a loop, add it
