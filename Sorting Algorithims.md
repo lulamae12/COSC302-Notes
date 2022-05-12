@@ -4,6 +4,10 @@ lecture notes link: https://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/S
 
 
 ---
+# Pivots
+Median of three pivot:
+ - find the Left most value, the right most value and the median value
+ - then find the median of those three
 
 # Bubble Sort
 

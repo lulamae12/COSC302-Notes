@@ -17,6 +17,8 @@ Running time is O(|V|+|E|)
 
 # Dijkstra's Algortihim
 
+Running Time: O(|V| + |E| log( |V| )
+
 Dijkstra's Algroithim is a modified version of a BFS, where it finds the shortest path from node to node based off edge weights.
 
 ```
@@ -45,3 +47,8 @@ when this is done the backlinks should represent the shortest path
 What is the shortest path of this graph from 0 to 6?
 
 ![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/BFS/img/Ex-Graph-W.png)
+
+A: 0-1-2-5-6
+
+
+
