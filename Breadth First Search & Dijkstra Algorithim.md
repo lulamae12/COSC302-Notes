@@ -29,13 +29,15 @@ set the starting nodes distance to 0
 now repeat the following:
     -remove a node n from the map and set its visited var to true
     
-    -For each edge e from n to n2 such that n2 has not been visited. Let d be n's distance plus the weight of edge e. If n2's distance is -1, or if d is less than node n2's current distance:
+    -For each edge e from n to n2 such that n2 has not been visited. Let d be n's distance plus the weight of edge e. 
+    
+    -If n2's distance is -1, or if d is less than node n2's current distance:
 
 
 
-    Set n2's distance to d.
-    Set n2's back-link to e.
-    Insert n2 into the multimap, keyed on distance.
+        Set n2's distance to d.
+        Set n2's back-link to e.
+        Insert n2 into the multimap, keyed on distance.
 
 ```
 
