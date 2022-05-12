@@ -19,6 +19,6 @@ Prim's Algorithim is a modified version of Dijkstras Algorithim. You basically j
 
 Example:
 
-![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/G5-2.jpg)
-![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/G5-8.jpg)
-![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/G5-9.jpg)
+1. ![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/G5-2.jpg)
+2. ![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/G5-8.jpg)
+3. ![](http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/MST/G5-9.jpg)
