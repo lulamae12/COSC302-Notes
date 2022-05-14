@@ -19,9 +19,6 @@ bubble sort works like this:
 
 - run through the elements from the smallest index to the largest
 - if the current element is greater than the next element, swap them
-- after each iteration of the loop, the largest element will always be at the end
-- loop again for the size - 1
-
 
 code example:
 
@@ -205,6 +202,25 @@ Heap sort, Merge sort and Quicksort are three O(n log(n)) algorithms for sorting
 
 ---
 
+
+# Heap Sort
+Running time: O(n log (n)) 
+http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Sorting/
+
+# Merge Sort
+Running time: O(n log (n))
+http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Sorting/
+
+
+Merge sort works with an ingenious recursion, which I outline as follows:
+
+- Base case 1: If the vector's size is one, then it's already sorted -- return it.
+- Base case 2: If the vector's size is two, then sort it with an if statement, and maybe a swap.
+- Otherwise, split the vector into two equal parts, and recursively sort both parts.
+
+
+Now that the two parts are sorted, merge the parts together into a sorted vector.
+
 # Quicksort
 Running time: O(n log (n))
 http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Sorting/
@@ -214,26 +230,6 @@ http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Sorting/
 
 
 
-
-
-
-
-
-
-
-
-
-# Heap Sort
-Running time: O(n log (n)) 
-http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Sorting/
-
-steps
-
-
-
-# Merge Sort
-Running time: O(n log (n))
-http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Notes/Sorting/
 
 
 # Bucket Sort - Linear Time Sorting
